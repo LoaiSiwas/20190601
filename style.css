@@ -1,0 +1,29 @@
+html {
+    margin: 0 auto;
+    width: 60%;
+    padding-bottom: 40px;
+}
+img {
+    width: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+body{
+    background: #93adca;
+    
+}
+.facts {
+    border: 2px black solid;
+    padding: 5vw;
+}
+.life {
+    border: 2px black solid;
+    padding: 2vw;
+    background: rgb(61, 121, 212);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#work {
+    border: 2px black solid;
+    padding: 2vw;
+}
